@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS", "CMS\CMS.csproj", "{D150692A-DE71-456D-8E15-4DEE43C8EEAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Model", "CMS.Model\CMS.Model.csproj", "{0B86BB87-A570-402D-9930-ADFD8E35B2FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{D150692A-DE71-456D-8E15-4DEE43C8EEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D150692A-DE71-456D-8E15-4DEE43C8EEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D150692A-DE71-456D-8E15-4DEE43C8EEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B86BB87-A570-402D-9930-ADFD8E35B2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B86BB87-A570-402D-9930-ADFD8E35B2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B86BB87-A570-402D-9930-ADFD8E35B2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B86BB87-A570-402D-9930-ADFD8E35B2FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
