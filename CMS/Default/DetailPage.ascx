@@ -3,6 +3,7 @@
 <%@ Register Src="~/Widget/Header/UC_Header.ascx" TagName="UC_Header" TagPrefix="cms" %>
 <html>
 <head id="Head1" runat="server">
+    <link href="../Webresource/Css/common.css" rel="stylesheet" type="text/css" />
     <title></title>
 </head>
 <body>

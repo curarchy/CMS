@@ -1,17 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+﻿using CMS.Common;
 
 namespace CMS.Widget.Header
 {
-    public partial class UC_Header : System.Web.UI.UserControl
+    public partial class UC_Header : UserControlBase
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
 
-        }
     }
 }
