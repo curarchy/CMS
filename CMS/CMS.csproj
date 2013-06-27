@@ -84,6 +84,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Widget\Content\UC_Content.ascx.cs">
       <DependentUpon>UC_Content.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Widget\Footer\UC_Footer.ascx.cs">
       <DependentUpon>UC_Footer.ascx</DependentUpon>
